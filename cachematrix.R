@@ -1,4 +1,4 @@
-## R Programming - Assingment 2
+## R Programming - Assignment 2
 ## Daniel Arboleda M.
 
 ## According to the assignment guidelines, this functions are
